@@ -1,0 +1,12 @@
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\bin\Debug\ContactSplitter.exe.config
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\bin\Debug\ContactSplitter.exe
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\bin\Debug\ContactSplitter.pdb
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.csprojResolveAssemblyReference.cache
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.Form1.resources
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.Properties.Resources.resources
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.csproj.GenerateResource.Cache
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.exe
+K:\Projekte\Visual Studio 2013\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.pdb
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\bin\Debug\ContactSplitter.exe.config
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.exe
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Debug\ContactSplitter.pdb

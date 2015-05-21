@@ -1,0 +1,8 @@
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\bin\Release\VcfContactManager.exe.config
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\bin\Release\VcfContactManager.exe
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\bin\Release\VcfContactManager.pdb
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Release\ContactSplitter.FormMain.resources
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Release\VcfContactManager.Properties.Resources.resources
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Release\VcfContactManager.csproj.GenerateResource.Cache
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Release\VcfContactManager.exe
+\\10.10.10.32\Daten\AlexLudwig\files\documents\Visual Studio 2012\Projects\ContactSplitter\ContactSplitter\obj\Release\VcfContactManager.pdb
